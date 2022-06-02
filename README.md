@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CV.
 
 Things I code with:
-https://img.shields.io/badge/python-3.9-orange
+<image src="https://img.shields.io/static/v1?label=Frame&message=PaddlePaddle&color=green&link=https://github.com/PaddlePaddle">
 
 [![justld's GitHub stats](https://github-readme-stats.vercel.app/api?username=justld&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
