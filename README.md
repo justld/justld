@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **justld/justld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a student in NEU.
+- 🌱 I’m currently learning CV.
+
+Things I code with:
+https://img.shields.io/badge/python-3.9-orange
 
 [![justld's GitHub stats](https://github-readme-stats.vercel.app/api?username=justld&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
