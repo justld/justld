@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a student in NEU.
 - 🌱 I’m currently learning CV.
 - 👯 I’m a contributor of [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) and [MedicalSeg](https://github.com/PaddleCV-SIG/MedicalSeg) and [PaddleTest](https://github.com/PaddlePaddle/PaddleTest).
 
